@@ -1,0 +1,4 @@
+.venv
+kwab.py
+__pycache__/
+*.pyc
