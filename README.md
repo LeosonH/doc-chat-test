@@ -1,6 +1,6 @@
-# docGPT
+# docChat
 
-docGPT is a Streamlit-based application that allows you to upload PDF documents and interactively ask questions about their content using OpenAI's language models. It leverages the [embedchain](https://github.com/embedchain/embedchain) framework for document ingestion and retrieval.
+docChat is a Streamlit-based application that allows you to upload PDF documents and interactively ask questions about their content using OpenAI's language models. It leverages the [embedchain](https://github.com/embedchain/embedchain) framework for document ingestion and retrieval.
 
 ## Features
 
